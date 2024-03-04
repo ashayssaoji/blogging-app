@@ -1,0 +1,29 @@
+{
+    "blogs":
+[
+    {
+        "title" : "DESIGN FOR MANKIND",
+        
+        "content" : "A lifestyle blog by Erin Loechner, filled with beautifully-written essays on everything from design to parenting, marriage, work, travel and more. DESIGN FOR MANKIND, I’ve never met Erin before in person, but she feels like such a kindred spirit. I have enjoyed tuning into her blog for years (like, so many years now!) for a dose of real-life inspiration and lovely prose. Her posts on navigating motherhood and marriage have always been some of my favorites. But I have always especially connected with her posts on slowing down, creativity, and self-care, probably because they’re always words I need to take to heart myself" ,
+        
+        "author" : "Erin Loechner",
+        
+        "creationDate" : "MARCH 15, 2021"
+
+
+    },
+
+    {
+        "title" : "A CUP OF JO",
+        
+        "content" : "A Food blog by Joanna Goddard covering everything from style to food, design, travel, relationships and motherhood This is another long-time read for me and one that I still completely look forward to tuning into daily. Her posts are always interesting and fun, and I always look forward to her weekend list of links. Also of note — she has really awesome readers, so the comment sections on her posts are always worth scrolling",
+        
+        "author" : "Joanna Goddard",
+        
+        "creationDate" : "NOVEMBER 20, 2022"
+
+
+    }
+
+]
+}
